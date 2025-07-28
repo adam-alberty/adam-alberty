@@ -1,4 +1,3 @@
-🌐 Website: [www.skarz.win](https://www.skarz.win)  
 📫 Reach me: [alberty.adam@proton.me](mailto:alberty.adam@proton.me)
 
 - **OS:** Linux
