@@ -4,6 +4,6 @@
 - **OS:** Linux
 - **Editor:** VS Code
 - **Shell:** Bash
-- **Languages:** TypeScript, Go, Rust, C
-- **Frameworks:** Next.js
-- **Tools:** Git, Docker, VS Code
+- **Languages:** TypeScript, Go, Rust, C, SQL (Postgres)
+- **Frameworks:** Next.js, SvelteKit
+- **DevOps:** Git, Docker, Kubernetes (k3s), Prometheus, Grafana
