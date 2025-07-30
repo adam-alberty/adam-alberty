@@ -8,4 +8,4 @@
 - **Shell:** Bash
 - **Languages:** TypeScript, Go, Rust, C, SQL (Postgres)
 - **Frameworks:** Next.js, SvelteKit
-- **DevOps:** Git, Docker, Kubernetes (k3s), Prometheus, Grafana
+- **DevOps:** Git, Docker, Kubernetes (k3s), Prometheus, Grafana, Restic
