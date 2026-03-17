@@ -3,6 +3,6 @@
 📫 Reach me: [alberty.adam@proton.me](mailto:alberty.adam@proton.me) \
 🔑 PGP key: [public-key.asc](https://raw.githubusercontent.com/adam-alberty/adam-alberty/refs/heads/main/public-key.asc)
 
-- **Languages:** TypeScript, Go, C, SQL (PostgreSQL)
-- **Frameworks:** Next.js, Vue, SvelteKit
-- **DevOps:** Git, GitHub Actions, Docker, Prometheus, Restic
+- **Languages:** TypeScript, Go, C, Rust, PostgreSQL
+- **Frameworks:** SvelteKit, Next.js, Vue 
+- **DevOps:** Git, Docker, Prometheus, Restic, GH Actions
